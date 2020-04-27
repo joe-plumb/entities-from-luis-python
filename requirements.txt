@@ -1,0 +1,3 @@
+azure-cognitiveservices-language-luis
+pandas
+ratelimit
